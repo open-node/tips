@@ -1,0 +1,24 @@
+{
+  "name": "tips",
+  "version": "0.0.1",
+  "description": "\"Tips tool for site helper.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:open-node/tips.git"
+  },
+  "keywords": [
+    "tips",
+    "jQuery",
+    "plugin"
+  ],
+  "author": "13740080@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-node/tips/issues"
+  },
+  "homepage": "https://github.com/open-node/tips"
+}
